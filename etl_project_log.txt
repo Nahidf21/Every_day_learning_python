@@ -1,0 +1,28 @@
+2024-09-13 23:34:43 : Data extraction begin
+2024-09-13 23:34:44 : Data transformetion begin
+2024-09-13 23:34:44 : CSV load begin
+2024-09-13 23:34:44 : SQL load begin
+2024-09-13 23:34:44 : select * from argest_bank
+2024-09-13 23:35:15 : Data extraction begin
+2024-09-13 23:35:15 : Data transformetion begin
+2024-09-13 23:35:15 : CSV load begin
+2024-09-13 23:35:15 : SQL load begin
+2024-09-13 23:35:15 : select * from argest_bank
+2024-09-13 23:36:05 : Data extraction begin
+2024-09-13 23:36:06 : Data transformetion begin
+2024-09-13 23:36:06 : CSV load begin
+2024-09-13 23:36:06 : SQL load begin
+2024-09-13 23:36:06 : select * from Largest_banks
+2024-09-13 23:36:06 : SQL Connection close
+2024-09-13 23:37:17 : Data extraction begin
+2024-09-13 23:37:17 : Data transformetion begin
+2024-09-13 23:37:17 : CSV load begin
+2024-09-13 23:37:17 : SQL load begin
+2024-09-13 23:37:17 : select * from Largest_banks
+2024-09-13 23:37:17 : SQL Connection close
+2024-09-13 23:38:36 : Data extraction begin
+2024-09-13 23:38:36 : Data transformetion begin
+2024-09-13 23:38:36 : CSV load begin
+2024-09-13 23:38:36 : SQL load begin
+2024-09-13 23:38:36 : select * from Largest_banks
+2024-09-13 23:38:36 : SQL Connection close
